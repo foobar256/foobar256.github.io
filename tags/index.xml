@@ -2,66 +2,66 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tags on Splonk</title>
-    <link>http://localhost:1313/tags/</link>
+    <link>https://foobar256.github.io/tags/</link>
     <description>Recent content in Tags on Splonk</description>
     <generator>Hugo -- 0.147.6</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 26 May 2025 17:46:44 +0200</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://foobar256.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Dollar Cost Averaging</title>
-      <link>http://localhost:1313/tags/dollar-cost-averaging/</link>
+      <link>https://foobar256.github.io/tags/dollar-cost-averaging/</link>
       <pubDate>Mon, 26 May 2025 17:46:44 +0200</pubDate>
-      <guid>http://localhost:1313/tags/dollar-cost-averaging/</guid>
+      <guid>https://foobar256.github.io/tags/dollar-cost-averaging/</guid>
       <description></description>
     </item>
     <item>
       <title>ETFs</title>
-      <link>http://localhost:1313/tags/etfs/</link>
+      <link>https://foobar256.github.io/tags/etfs/</link>
       <pubDate>Mon, 26 May 2025 17:46:44 +0200</pubDate>
-      <guid>http://localhost:1313/tags/etfs/</guid>
+      <guid>https://foobar256.github.io/tags/etfs/</guid>
       <description></description>
     </item>
     <item>
       <title>Financial Markets</title>
-      <link>http://localhost:1313/tags/financial-markets/</link>
+      <link>https://foobar256.github.io/tags/financial-markets/</link>
       <pubDate>Mon, 26 May 2025 17:46:44 +0200</pubDate>
-      <guid>http://localhost:1313/tags/financial-markets/</guid>
+      <guid>https://foobar256.github.io/tags/financial-markets/</guid>
       <description></description>
     </item>
     <item>
       <title>Investing</title>
-      <link>http://localhost:1313/tags/investing/</link>
+      <link>https://foobar256.github.io/tags/investing/</link>
       <pubDate>Mon, 26 May 2025 17:46:44 +0200</pubDate>
-      <guid>http://localhost:1313/tags/investing/</guid>
+      <guid>https://foobar256.github.io/tags/investing/</guid>
       <description></description>
     </item>
     <item>
       <title>Leverage</title>
-      <link>http://localhost:1313/tags/leverage/</link>
+      <link>https://foobar256.github.io/tags/leverage/</link>
       <pubDate>Mon, 26 May 2025 17:46:44 +0200</pubDate>
-      <guid>http://localhost:1313/tags/leverage/</guid>
+      <guid>https://foobar256.github.io/tags/leverage/</guid>
       <description></description>
     </item>
     <item>
       <title>Risk Management</title>
-      <link>http://localhost:1313/tags/risk-management/</link>
+      <link>https://foobar256.github.io/tags/risk-management/</link>
       <pubDate>Mon, 26 May 2025 17:46:44 +0200</pubDate>
-      <guid>http://localhost:1313/tags/risk-management/</guid>
+      <guid>https://foobar256.github.io/tags/risk-management/</guid>
       <description></description>
     </item>
     <item>
       <title>S&amp;P 500</title>
-      <link>http://localhost:1313/tags/sp-500/</link>
+      <link>https://foobar256.github.io/tags/sp-500/</link>
       <pubDate>Mon, 26 May 2025 17:46:44 +0200</pubDate>
-      <guid>http://localhost:1313/tags/sp-500/</guid>
+      <guid>https://foobar256.github.io/tags/sp-500/</guid>
       <description></description>
     </item>
     <item>
       <title>Stock Index Futures</title>
-      <link>http://localhost:1313/tags/stock-index-futures/</link>
+      <link>https://foobar256.github.io/tags/stock-index-futures/</link>
       <pubDate>Mon, 26 May 2025 17:46:44 +0200</pubDate>
-      <guid>http://localhost:1313/tags/stock-index-futures/</guid>
+      <guid>https://foobar256.github.io/tags/stock-index-futures/</guid>
       <description></description>
     </item>
   </channel>
