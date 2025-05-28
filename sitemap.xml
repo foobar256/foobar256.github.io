@@ -2,52 +2,52 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://splonk.party/categories/</loc>
     <lastmod>2025-05-26T17:46:44+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/dollar-cost-averaging/</loc>
+    <loc>https://splonk.party/tags/dollar-cost-averaging/</loc>
     <lastmod>2025-05-26T17:46:44+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/etfs/</loc>
+    <loc>https://splonk.party/tags/etfs/</loc>
     <lastmod>2025-05-26T17:46:44+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/financial-markets/</loc>
+    <loc>https://splonk.party/tags/financial-markets/</loc>
     <lastmod>2025-05-26T17:46:44+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/futures-trading/</loc>
+    <loc>https://splonk.party/categories/futures-trading/</loc>
     <lastmod>2025-05-26T17:46:44+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/investing/</loc>
+    <loc>https://splonk.party/categories/investing/</loc>
     <lastmod>2025-05-26T17:46:44+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/investing/</loc>
+    <loc>https://splonk.party/tags/investing/</loc>
     <lastmod>2025-05-26T17:46:44+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/leverage/</loc>
+    <loc>https://splonk.party/tags/leverage/</loc>
     <lastmod>2025-05-26T17:46:44+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/personal-finance/</loc>
+    <loc>https://splonk.party/categories/personal-finance/</loc>
     <lastmod>2025-05-26T17:46:44+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/</loc>
+    <loc>https://splonk.party/posts/</loc>
     <lastmod>2025-05-26T17:46:44+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/risk-management/</loc>
+    <loc>https://splonk.party/tags/risk-management/</loc>
     <lastmod>2025-05-26T17:46:44+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/sp-500/</loc>
+    <loc>https://splonk.party/tags/sp-500/</loc>
     <lastmod>2025-05-26T17:46:44+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://splonk.party/</loc>
     <lastmod>2025-05-26T17:46:44+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/stock-index-futures/</loc>
+    <loc>https://splonk.party/tags/stock-index-futures/</loc>
     <lastmod>2025-05-26T17:46:44+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/futures/</loc>
+    <loc>https://splonk.party/posts/futures/</loc>
     <lastmod>2025-05-26T17:46:44+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://splonk.party/tags/</loc>
     <lastmod>2025-05-26T17:46:44+02:00</lastmod>
   </url>
 </urlset>
