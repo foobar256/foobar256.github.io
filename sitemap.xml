@@ -2,6 +2,12 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://splonk.party/posts/</loc>
+    <lastmod>2025-05-29T12:25:51+02:00</lastmod>
+  </url><url>
+    <loc>https://splonk.party/</loc>
+    <lastmod>2025-05-29T12:25:51+02:00</lastmod>
+  </url><url>
     <loc>https://splonk.party/categories/</loc>
     <lastmod>2025-05-26T17:46:44+02:00</lastmod>
   </url><url>
@@ -29,16 +35,7 @@
     <loc>https://splonk.party/categories/personal-finance/</loc>
     <lastmod>2025-05-26T17:46:44+02:00</lastmod>
   </url><url>
-    <loc>https://splonk.party/posts/</loc>
-    <lastmod>2025-05-26T17:46:44+02:00</lastmod>
-  </url><url>
     <loc>https://splonk.party/tags/risk-management/</loc>
-    <lastmod>2025-05-26T17:46:44+02:00</lastmod>
-  </url><url>
-    <loc>https://splonk.party/tags/sp-500/</loc>
-    <lastmod>2025-05-26T17:46:44+02:00</lastmod>
-  </url><url>
-    <loc>https://splonk.party/</loc>
     <lastmod>2025-05-26T17:46:44+02:00</lastmod>
   </url><url>
     <loc>https://splonk.party/tags/stock-index-futures/</loc>
