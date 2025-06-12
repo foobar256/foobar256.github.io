@@ -6,46 +6,8 @@
     <description>Recent content in Posts on Splonk</description>
     <generator>Hugo -- 0.147.8</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 03 Jun 2025 10:17:25 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 26 May 2025 17:46:44 +0200</lastBuildDate>
     <atom:link href="https://splonk.party/posts/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Futures term premium</title>
-      <link>https://splonk.party/posts/futures-term-premium/</link>
-      <pubDate>Tue, 03 Jun 2025 10:17:25 +0200</pubDate>
-      <guid>https://splonk.party/posts/futures-term-premium/</guid>
-      <description>&lt;h3 id=&#34;what-are-term-premiums&#34;&gt;What are term premiums?&lt;/h3&gt;
-&lt;p&gt;Term premium is the additional yield investors demand for holding longer-term bonds or securities compared to shorter-term ones, compensating for risks like interest rate fluctuations, inflation uncertainty, and reduced liquidity over extended periods.&lt;/p&gt;
-&lt;h3 id=&#34;how-much-is-the-premium&#34;&gt;How much is the premium?&lt;/h3&gt;
-&lt;p&gt;Let&amp;rsquo;s do some very crude calculations. (Don&amp;rsquo;t try this at home)&lt;/p&gt;
-&lt;table&gt;
-  &lt;thead&gt;
-      &lt;tr&gt;
-          &lt;th&gt;Future Name&lt;/th&gt;
-          &lt;th&gt;Month&lt;/th&gt;
-          &lt;th&gt;Last&lt;/th&gt;
-      &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-      &lt;tr&gt;
-          &lt;td&gt;M2KM5&lt;/td&gt;
-          &lt;td&gt;JUN 2025&lt;/td&gt;
-          &lt;td&gt;2058.30&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;M2KU5&lt;/td&gt;
-          &lt;td&gt;SEP 2025&lt;/td&gt;
-          &lt;td&gt;2077.50&lt;/td&gt;
-      &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-&lt;p&gt;Difference = New Value - Old Value = 2077.50 - 2058.30 = 19.20
-Percentage Growth = (19.20 / 2058.30) × 100 ≈ 0.932%
-The expected growth from June 2025 to September 2025 is approximately 0.93%.
-So the prediction is only 0.9% growth in 3 months. This seems mispriced.
-Now we need to estimate what growth are we expecting. Let&amp;rsquo;s assume 8% per year so 8% / 4 = 2% but you can put whichever number you want think is the correct estimation. We don&amp;rsquo;t want to adjust for inflation here because we also aren&amp;rsquo;t adjusting for inflation in the futures.
-&lt;a href=&#34;https://www.lazyportfolioetf.com/etf/ishares-russell-2000-etf-iwm/&#34;&gt;https://www.lazyportfolioetf.com/etf/ishares-russell-2000-etf-iwm/&lt;/a&gt;
-Assuming so we are getting 2% - 0.93% premium, which seems really good.&lt;/p&gt;</description>
-    </item>
     <item>
       <title>Stock index futures</title>
       <link>https://splonk.party/posts/futures/</link>
